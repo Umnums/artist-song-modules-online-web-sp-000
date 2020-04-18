@@ -36,3 +36,5 @@ class Song
     name.downcase.gsub(' ', '-')
   end
 end
+
+this = Song.new('this')
