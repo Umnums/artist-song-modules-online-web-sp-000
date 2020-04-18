@@ -37,4 +37,4 @@ class Song
   end
 end
 
-this = Song.new('this')
+this = Song.new
